@@ -21,7 +21,7 @@ Yayınlanmak için beklemede...
 - Singleton
 - Volley
 - SearchableSpinner
-
+- Design = Adobe XD
 
 **Lisans : Omer Akkoyun**
 
