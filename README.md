@@ -1,8 +1,8 @@
 # Android Hava Durumu Uygulaması v.1.0
 - Özellikler , Bulunduğunuz yerin konum bilgilerine göre hava durumunu gösteriyor.
 - Türkiyenin Tüm illeri
-- Bazı Ülke illeri ve başkentler
-- İlerleyen zamanlarda 10 günlük tahminleri ekleyebilirim.
+- Bazı ülke illeri ve başkentler
+- İlerleyen zamanlarda 10 günlük tahminleri de ekleyebilirim.
 
 #### Google Play : 
 Yayınlanmak için beklemede...
