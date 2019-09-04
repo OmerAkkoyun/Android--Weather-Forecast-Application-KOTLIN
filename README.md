@@ -2,7 +2,7 @@
 - Özellikler : Bulunduğunuz yerin konum bilgilerine göre hava durumunu gösteriyor.
 - Türkiyenin Tüm illeri
 - Bazı Ülke illeri ve başkentler
-- İlerleyen zamanlarda 10 günlük tahminleri ekleyebilirm.
+- İlerleyen zamanlarda 10 günlük tahminleri ekleyebilirim.
 
 #### Google Play : 
 Yayınlanmak için beklemede...
