@@ -13,7 +13,7 @@ Yayınlanmak için beklemede...
 
 <hr>
 
-- veriler = https://api.openweathermap.org
+- Veriler = https://api.openweathermap.org
 - Web API
 - Json
 - Location
