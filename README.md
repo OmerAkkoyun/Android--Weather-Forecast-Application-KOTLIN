@@ -1,18 +1,16 @@
-# Android Hava Durumu Uygulaması v.1.0 
-- Özellikler , bulunduğunuz yerin konum bilgilerine göre hava durumunu gösteriyor.
-- Türkiyenin tüm illeri
-- Bazı ülke illeri ve başkentler
-- Hava durumuna göre değişen resimler ve arkaplan
-- Gece ve gündüz saatlerine göre değişen arkaplan
-- İlerleyen zamanlarda 10 günlük tahminleri de ekleyebilirim.
-
+# Android Weather Condition Application KOTLIN v.1.0 
+- **Features** 
+- Shows the weather according to your location.
+- All provinces of Turkey 
+- Cities and capitals of some countries
+- I can also add later 10-day forecasts 
 #### Google Play : 
-Yayınlanmak için beklemede...
+will added
 
-## Video
+## Video Test
 - https://www.youtube.com/watch?v=XP8QRcmEfSM&feature=youtu.be
 
-# Ekran Görüntüleri / Screenshots
+#Screenshots
 
 ![havadurumu resimler](https://user-images.githubusercontent.com/33864154/64279082-f53c0800-cf56-11e9-80b2-d0251c28ca3d.png)
 
@@ -22,7 +20,7 @@ Yayınlanmak için beklemede...
 
 <hr>
 
-- Veriler = https://api.openweathermap.org
+- Data link = https://api.openweathermap.org
 - Web API
 - Json
 - Location
@@ -32,6 +30,6 @@ Yayınlanmak için beklemede...
 - SearchableSpinner
 - Design = Adobe XD
 
-**Lisans : Omer Akkoyun**
+**Author : Omer Akkoyun**
 
 
