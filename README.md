@@ -7,6 +7,9 @@
 #### Google Play : 
 Yayınlanmak için beklemede...
 
+## Video
+- https://www.youtube.com/watch?v=XP8QRcmEfSM&feature=youtu.be
+
 # Ekran Görüntüleri / Screenshots
 
 ![havadurumu resimler](https://user-images.githubusercontent.com/33864154/64279082-f53c0800-cf56-11e9-80b2-d0251c28ca3d.png)
