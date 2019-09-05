@@ -1,4 +1,4 @@
-# Android Weather Condition Application KOTLIN v.1.0 
+# Android Weather Condition Application KOTLIN v.1.0  
 - **Features** 
 - Shows the weather according to your location.
 - All provinces of Turkey 
