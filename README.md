@@ -3,6 +3,7 @@
 - Türkiyenin tüm illeri
 - Bazı ülke illeri ve başkentler
 - Hava durumuna göre değişen resimler ve arkaplan
+- Gece ve gündüz saatlerine göre değişen arkaplan
 - İlerleyen zamanlarda 10 günlük tahminleri de ekleyebilirim.
 
 #### Google Play : 
