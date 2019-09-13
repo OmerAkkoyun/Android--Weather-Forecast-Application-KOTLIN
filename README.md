@@ -5,7 +5,7 @@
 - Cities and capitals of some countries
 - I can also add later 10-day forecasts 
 #### Google Play : 
-will added
+https://play.google.com/store/apps/details?id=com.omer_akkoyun.havadurumu
 
 ## Video Test
 - https://www.youtube.com/watch?v=XP8QRcmEfSM&feature=youtu.be
