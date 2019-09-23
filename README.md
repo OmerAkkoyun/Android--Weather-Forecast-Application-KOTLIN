@@ -18,8 +18,8 @@ https://play.google.com/store/apps/details?id=com.omer_akkoyun.havadurumu
 ![resim2](https://user-images.githubusercontent.com/33864154/64279087-f79e6200-cf56-11e9-8921-0c602b4f94bd.png)
 
 
-
 <hr>
+
 
 - Data link = https://api.openweathermap.org
 - Web API
