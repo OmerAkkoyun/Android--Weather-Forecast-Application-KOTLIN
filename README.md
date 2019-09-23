@@ -3,7 +3,8 @@
 - Shows the weather according to your location.
 - All provinces of Turkey 
 - Cities and capitals of some countries
-- I can also add later 10-day forecasts 
+- I can also add later 10-day forecasts   
+
 #### Google Play : 
 https://play.google.com/store/apps/details?id=com.omer_akkoyun.havadurumu
 
