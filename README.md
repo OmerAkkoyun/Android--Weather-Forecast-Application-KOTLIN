@@ -1,5 +1,5 @@
 # Android Weather Condition Application - KOTLIN
-- **Features**  
+-  **Features**  
 - Shows the weather according to your location.
 - All provinces of Turkey 
 - Cities and capitals of some countries
