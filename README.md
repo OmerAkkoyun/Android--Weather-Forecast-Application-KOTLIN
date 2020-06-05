@@ -31,6 +31,6 @@ https://play.google.com/store/apps/details?id=com.omer_akkoyun.havadurumu
 - SearchableSpinner
 - Design = Adobe XD
 
-**Author : Omer Akkoyun**
+
 
 
